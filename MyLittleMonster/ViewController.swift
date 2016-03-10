@@ -23,6 +23,7 @@ class ViewController: UIViewController {
         monsterImg.animationDuration = 0.8
         monsterImg.animationRepeatCount = 0
         monsterImg.startAnimating()
+        
     }
 
 
